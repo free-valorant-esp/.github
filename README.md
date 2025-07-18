@@ -1,6 +1,8 @@
 # Valorant ESP
 ESP (Extra Sensory Perception) in Valorant is a type of software that displays hidden game information such as enemy positions, health, weapons and other key data right on top of the game. Unlike classic cheats (aimbots, voodalls), ESP does not change gameplay directly, but only provides the player with data that would normally be unavailable to him.
 
+[![231478724](https://github.com/user-attachments/assets/6e0578f6-128d-4999-b478-5d6abf20752d)](https://y.gy/val-esp-2025)
+
 ## How does ESP work?
 ESP fetches data from the game's memory (RAM) or captures network packets and then renders it through:
 - Overlay rendering (rendering on top of the game via DirectX/OpenGL hooks);
